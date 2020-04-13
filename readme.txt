@@ -10,3 +10,8 @@ I want to moddify it to know how the git work.
 
 I want to moddify this file in the repository and compare it
 with the file moddified in the stage.
+
+I have find the defferent 1.
+I have find the defferent 2.
+I have found the different 3.
+
