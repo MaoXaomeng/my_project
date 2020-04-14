@@ -15,3 +15,4 @@ I have find the defferent 1.
 I have find the defferent 2.
 I have found the different 3.
 
+I want to test the "checkout" command.
